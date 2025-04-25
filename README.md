@@ -76,6 +76,9 @@ I am on a journey to refine my programming skills, with the goal of becoming a m
 ---
 
 ### 📈 Statistics
+
+<div style="display: flex; align-items: center;">
+
 <img 
     align="left" 
     alt="GitHub Stats" 
@@ -90,5 +93,7 @@ I am on a journey to refine my programming skills, with the goal of becoming a m
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-op86&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
 />
+</div>
+
 
 

@@ -59,7 +59,7 @@ I am on a journey to refine my programming skills, with the goal of becoming a m
     title="VSCode" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/VSCode.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
 />
 
 <img 

@@ -86,6 +86,7 @@ I am on a journey to refine my programming skills, with the goal of becoming a m
 />
 
 <img 
+    align="right" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-op86&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 

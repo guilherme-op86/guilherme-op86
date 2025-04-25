@@ -81,7 +81,7 @@ I am on a journey to refine my programming skills, with the goal of becoming a m
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 5px;" 
+    style="padding-right: 1px;" 
     src="https://github-readme-stats.vercel.app/api?username=guilherme-op86&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 

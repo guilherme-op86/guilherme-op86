@@ -2,9 +2,11 @@
 
 ## `Fullstack Developer` ##
 
-My name is Guilherme Oliveira, I am Brazilian and I live in the state of Minas Gerais.
-I have been studying programming for a few years, and I am currently pursuing a degree in Systems Analysis and Development. Throughout my life, I have been passionate about technology, having worked in the sales sector of large CCTV systems.
-I am on a journey to refine my programming skills, with the goal of becoming a mobile developer.
+📚 Currently, I am studying Systems Analysis and Development.
+
+🧑‍💻 FullStack Developer
+
+💻 Technology enthusiast
 
 <p align="left">
     <a href="https://github.com/guilherme-op86?tab=repositories&sort=stargazers">

@@ -12,14 +12,14 @@
     <a href="https://github.com/guilherme-op86?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            title="Total stars on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/guilherme-op86?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/guilherme-op86?tab=followers">
         <img 
             alt="Followers" 
-            title="Me siga no GitHub" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/guilherme-op86?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>

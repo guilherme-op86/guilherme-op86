@@ -2,7 +2,7 @@
 
 ## `Fullstack Developer` ##
 
-📚 Currently, I am studying Systems Analysis and Development.
+📚 Currently, I am studying Systems Analysis and Development
 
 🧑‍💻 FullStack Developer
 

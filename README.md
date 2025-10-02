@@ -6,7 +6,7 @@
 
 🧑‍💻 FullStack Developer
 
-🖥️ Technology enthusiast
+🖥️ Technology Enthusiast
 
 <p align="left">
     <a href="https://github.com/guilherme-op86?tab=repositories&sort=stargazers">

@@ -75,24 +75,6 @@
 <br/>
 <br/>
 
----
-
-### 📈 Statistics
-    
-<img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 5;" 
-    src="https://github-readme-stats.vercel.app/api?username=guilherme-op86&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-/>
-
-<img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-op86&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-/>
 
 
 
